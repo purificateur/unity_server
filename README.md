@@ -1,4 +1,4 @@
 # unity_server
-Unity Server Test
+Unity Test Server with WebSockets
 
 Created by MFA
